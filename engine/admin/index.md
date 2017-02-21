@@ -1,7 +1,6 @@
 ---
-description: Configuring and running the Docker daemon on various distributions
-keywords: docker, daemon, configuration, running,  process managers
-redirect_from:
+描述：配置和各种分布关键词运行Docker守护：docker，守护、配置、运行、过程管理
+redirect_from：
 - /engine/articles/configuring/
 - /engine/admin/configuring/
 title: Configure and run Docker on various distributions
@@ -96,7 +95,7 @@ $ sudo status docker
 docker start/running, process 989
 ```
 
-### Running Docker
+### Running Docker 
 
 You can start/stop/restart the `docker` daemon using
 
